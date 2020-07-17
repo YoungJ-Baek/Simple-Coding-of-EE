@@ -10,5 +10,3 @@ Index
 ### Integral
 ### Gradient descent
 ### Central limit theorem
-### 16QAM
-### DFT
