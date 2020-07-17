@@ -9,7 +9,6 @@ Index
 ### Sampling theorem
 ### Integral
 ### Gradient descent
-### Orthogonality
 ### Central limit theorem
 ### 16QAM
 ### DFT
